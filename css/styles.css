@@ -67,3 +67,22 @@ font-size: 12px;
 .small-text {
   font-size: 14px;
 }
+
+.container-food-1 {
+  display: flex;
+  flex-direction: row;
+}
+
+.container-food-2 {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.food-text {
+  font-size: 16px;
+}
+
+.food-pictures {
+  width: 350px;
+  height: 350px;
+}
