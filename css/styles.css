@@ -47,6 +47,10 @@ a {
   justify-content: space-around;
 }
 
+.informations {
+  margin: 0 21px 0 17px;
+}
+
 .normal-text {
   font-size: 19px;
 }
@@ -70,6 +74,17 @@ font-size: 12px;
 
 .container-food-1  img{
   display: flex;
-  width: 120px;
-  height: 120px;
+  width: 130px;
+  height: 130px;
+}
+
+.container-footer h2 {
+  font-size: 16px;
+}
+
+.container-footer {
+  background-color:black;
+  color: white;
+  text-align: center;
+  padding-top: 27px;
 }
