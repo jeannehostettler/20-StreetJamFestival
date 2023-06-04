@@ -68,16 +68,8 @@ font-size: 12px;
   font-size: 14px;
 }
 
-.container-food-1 {
+.container-food-1  img{
   display: flex;
-  flex-direction: row;
-}
-
-.food-text {
-  font-size: 16px;
-}
-
-.food-pictures {
-  width: 350px;
-  height: 350px;
+  width: 120px;
+  height: 120px;
 }
