@@ -115,12 +115,12 @@ h2 {
 
 .logos img {
   display: flex;
-  width: 40px;
-  height: 40px;
+  width: 30px;
+  height: 30px;
 }
 
 .logos {
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: space-evenly;
 }
