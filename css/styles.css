@@ -6,7 +6,7 @@ body {
 }
 
 html {
-  background-color: black;
+  background-color: #686868;
 }
 
 img {
@@ -106,4 +106,21 @@ h2 {
   color: white;
   text-align: center;
   padding-top: 27px;
+  padding-bottom: 20px;
+}
+
+.container-footer h2 {
+  font-size: 16px;
+}
+
+.logos img {
+  display: flex;
+  width: 40px;
+  height: 40px;
+}
+
+.logos {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
 }
