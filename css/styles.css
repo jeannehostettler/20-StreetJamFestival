@@ -16,6 +16,7 @@ img {
 
 header {
   background-image: url(../img/graffiti_image_header.svg);
+  box-shadow: black 0px 80px 300px -28px inset;
   background-size: cover;
 }
 
