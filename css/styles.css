@@ -1,11 +1,12 @@
 body {
   max-width: 320px;
   margin: auto;
-  background: white;
+  background-image: url(../img/background.svg);
+  background-color: white;
 }
 
 html {
-  background-color: aquamarine;
+  background-color: black;
 }
 
 img {
@@ -20,13 +21,11 @@ header {
 
 .container-header {
   display: flex;
-  flex-direction: row;
 }
 
-.logo {
-  width: 100px;
-  height: 100px;
-  margin: 25px 0 0 5px;
+.container-header img {
+  width: 130px;
+  margin-left: 5px;
 }
 
 nav {
